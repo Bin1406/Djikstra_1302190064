@@ -1,6 +1,6 @@
-# Jarkom_Dijkstra
+# Jarkom_Dijkstra_1302190064
 
-Algoritma Dijkstra merupakan algoritma untuk menemukan jalur terpendek antar node dalam graph
+Algoritme Dijkstra, adalah sebuah algoritme rakus yang dipakai dalam memecahkan permasalahan jarak terpendek untuk sebuah graf berarah dengan bobot-bobot garis yang bernilai nonnegatif
 
 Input :
 
